@@ -1,7 +1,8 @@
 ---
 layout: default
 title: Assigning and Using Variables
-parent: "Writing Functional Code"
+grand_parent: "Writing Functional Code"
+parent: "Python Statements"
 ---
 
 # Assigning and Using Variables

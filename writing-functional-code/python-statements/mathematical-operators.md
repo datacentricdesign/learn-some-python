@@ -1,7 +1,8 @@
 ---
 layout: default
 title: Mathematical Operators
-parent: "Writing Functional Code"
+grand_parent: "Writing Functional Code"
+parent: "Python Statements"
 ---
 
 # Mathematical Operators
